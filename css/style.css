@@ -52,7 +52,6 @@ img {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-  margin-bottom: 8px;
 }
 
 .header-top {
@@ -174,6 +173,15 @@ img {
 
 .advantages {
   padding: 120px 0;
+}
+
+.advantages-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .advantages-list {
